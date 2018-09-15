@@ -8,6 +8,6 @@ public class HelloServiceImpl {
 	@WebMethod	//标记为远程服务远程方法
 	public String sayHello(String name) {
 		
-		return name+"南方姑娘，你是否喜欢北方的秋凉2018/9/15";
+		return name+"南方姑娘，你是否喜欢北方的秋凉";
 	}
 }
