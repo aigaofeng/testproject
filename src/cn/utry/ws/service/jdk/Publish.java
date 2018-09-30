@@ -23,7 +23,7 @@ public class Publish {
 				
 		Endpoint.publish(address, implementor);//异步执行
 		
-		System.out.println("服务发布成功了-----");
+		System.out.println("服务发布成功了-----国庆快乐");
 	
 	}
 

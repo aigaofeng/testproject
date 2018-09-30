@@ -9,6 +9,6 @@ public class HelloServiceImpl {
 	public String sayHello(String name) {
 		
 
-	return name+"明天就是国庆节了，住大家节日快乐";
+	return name+"明天就是国庆节了，明天老子就有新手机了";
 	}
 }
